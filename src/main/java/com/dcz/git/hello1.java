@@ -10,6 +10,5 @@ public class hello1 {
         System.out.println("hot-fix");
         System.out.println("0000");
         System.out.println("9898");
-        System.out.println("0000");
     }
 }
