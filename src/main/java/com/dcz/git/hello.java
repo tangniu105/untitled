@@ -16,6 +16,7 @@ public class hello {
         System.out.println((int)map.get(5)+a);
         System.out.println((int)map.get(5)+a);
         System.out.println((int)map.get(5)+a);
+        System.out.println("pull");
 
     }
 }
