@@ -14,5 +14,7 @@ public class hello {
         map.put(4, 2);
         map.put(5, 2);
         System.out.println((int)map.get(5)+a);
+        System.out.println((int)map.get(5)+a);
+
     }
 }
